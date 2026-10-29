@@ -1,0 +1,61 @@
+customer_id,tenure_months,contract,monthly_charges,support_calls,internet_service,payment_method
+C1860,54,Month-to-month,62.59,0,Fiber,Card
+C0353,32,Month-to-month,31.03,0,DSL,Card
+C1333,59,Month-to-month,45.02,2,Fiber,UPI
+C0905,52,Month-to-month,57.03,1,No Internet,Cash
+C1289,45,Month-to-month,120.0,1,DSL,Card
+C1273,49,Two year,65.22,1,Fiber,Net Banking
+C0938,34,Month-to-month,39.34,0,DSL,Cash
+C1731,66,Month-to-month,120.0,1,Fiber,Cash
+C0065,24,Two year,85.49,0,Fiber,UPI
+C1323,64,Month-to-month,21.56,2,DSL,Net Banking
+C0056,40,Two year,99.59,1,No Internet,Cash
+C1292,32,One year,75.47,2,Fiber,UPI
+C1118,53,Month-to-month,62.52,2,Fiber,Card
+C0584,30,One year,63.5,2,DSL,UPI
+C0374,64,Two year,82.6,0,No Internet,Card
+C0275,35,Month-to-month,90.52,0,Fiber,Card
+C0746,39,One year,66.99,1,Fiber,UPI
+C0128,42,One year,69.98,0,Fiber,Cash
+C1646,25,One year,84.02,1,Fiber,UPI
+C1852,33,Two year,26.08,1,DSL,Card
+C0674,45,One year,101.7,1,Fiber,Card
+C1664,38,Month-to-month,73.26,1,Fiber,Cash
+C1981,45,Month-to-month,94.92,1,Fiber,Card
+C1083,41,Month-to-month,102.72,2,No Internet,Net Banking
+C1922,60,Month-to-month,95.29,0,Fiber,Cash
+C0099,11,Month-to-month,34.26,1,Fiber,Net Banking
+C1179,2,Two year,48.93,1,Fiber,Card
+C0964,69,One year,109.77,1,Fiber,Net Banking
+C0792,53,Month-to-month,99.67,3,DSL,Cash
+C0029,32,Month-to-month,72.61,2,DSL,Net Banking
+C0628,37,Month-to-month,67.83,3,Fiber,Net Banking
+C0944,10,Two year,72.99,1,Fiber,UPI
+C0572,21,One year,106.2,0,Fiber,Cash
+C0907,13,Month-to-month,30.43,1,DSL,Net Banking
+C1080,67,Month-to-month,108.07,3,DSL,UPI
+C0450,70,Two year,48.28,0,DSL,UPI
+C1609,10,Month-to-month,20.0,0,Fiber,Net Banking
+C1290,17,Two year,35.19,3,No Internet,Net Banking
+C1078,31,Month-to-month,71.41,1,DSL,Cash
+C0254,48,Month-to-month,46.92,5,DSL,Net Banking
+C0124,62,Month-to-month,53.14,3,No Internet,Card
+C1927,10,One year,25.1,1,DSL,Card
+C0251,36,Month-to-month,82.25,1,DSL,Card
+C0585,67,Two year,65.31,4,Fiber,Card
+C1568,66,One year,92.14,2,Fiber,Cash
+C0824,45,One year,33.2,1,Fiber,Card
+C0507,18,Month-to-month,114.56,2,DSL,Net Banking
+C0889,20,Month-to-month,63.41,2,Fiber,Net Banking
+C0070,58,Two year,26.3,0,Fiber,Net Banking
+C1608,18,One year,71.81,2,DSL,Card
+C1532,68,One year,78.46,2,No Internet,UPI
+C0247,30,Month-to-month,40.32,3,DSL,UPI
+C1450,22,One year,47.7,4,Fiber,UPI
+C0212,57,One year,74.31,0,Fiber,Net Banking
+C0909,7,Two year,72.4,3,Fiber,Cash
+C1741,54,Two year,71.89,1,DSL,Card
+C1244,64,Month-to-month,73.42,2,Fiber,UPI
+C1696,34,Two year,39.17,2,DSL,Net Banking
+C1182,50,Two year,49.78,1,DSL,Cash
+C0361,65,Month-to-month,50.43,1,DSL,Net Banking

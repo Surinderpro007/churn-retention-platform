@@ -1,0 +1,44 @@
+{
+  "accuracy": 0.71,
+  "precision": 0.4444444444444444,
+  "recall": 0.7346938775510204,
+  "f1": 0.5538461538461539,
+  "confusion_matrix": [
+    [
+      212,
+      90
+    ],
+    [
+      26,
+      72
+    ]
+  ],
+  "roc_auc": 0.7867955129071497,
+  "best_f1_threshold": 0.5877264050432806,
+  "best_f1": 0.5829596412556054,
+  "model_name": "Logistic Regression",
+  "cv_results": [
+    {
+      "model": "Logistic Regression",
+      "cv_roc_auc": 0.8029472683973733,
+      "cv_f1": 0.5741642407747433,
+      "cv_recall": 0.75322947095099
+    },
+    {
+      "model": "Random Forest",
+      "cv_roc_auc": 0.7864803879381612,
+      "cv_f1": 0.5542052895184899,
+      "cv_recall": 0.6768581629341124
+    },
+    {
+      "model": "Gradient Boosting",
+      "cv_roc_auc": 0.7794051190315556,
+      "cv_f1": 0.5460821218332018,
+      "cv_recall": 0.694677052904901
+    }
+  ],
+  "n_train": 1600,
+  "n_test": 400,
+  "trained_at": "2026-10-26 23:49",
+  "sklearn_version": "1.9.1"
+}
